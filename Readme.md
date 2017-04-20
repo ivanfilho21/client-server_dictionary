@@ -3,7 +3,7 @@
 
 > by Ivan Filho
 
-* It is a server for find meanings of words, as a dictionary.
+* It is a server for finding meanings of words, as a dictionary.
 
 ## Explanation
 
