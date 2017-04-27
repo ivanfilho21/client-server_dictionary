@@ -1,9 +1,0 @@
-TTL)Time to Live.
-SRC)Source.
-RSC)Resource.
-Water)Agua.
-Fire)Fogo.
-Wind)Vento.
-Earth)Terra.
-Heart)Coracao.
-Cat)Gato.
