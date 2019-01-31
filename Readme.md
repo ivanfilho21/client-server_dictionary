@@ -1,4 +1,3 @@
-
 # Server Dictionary
 > A server that takes requests from the Client and sends meanings of words if they are found locally, such as in a dictionary.
 
